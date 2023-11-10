@@ -6,7 +6,7 @@ Web Developer
 
 I Am A Final Year Computer Science Engineering Student With An Ambition To Learn New Things.
 
-* ✉️  You can contact me at [leosup636@gmail.com](mailto:leosup636@gmail.com)
+* ✉️  You can contact me at [leosup636@gmail.com](mailto:lokesh.adhikari00@gmail.com)
 * 🧠  I'm learning Web Development, Javascript And IOS Development
 * ⚡  I Love Photography And Have A Youtube Channel Named : UNSAID PICTURES
 
